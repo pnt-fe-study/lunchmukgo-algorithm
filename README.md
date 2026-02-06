@@ -85,6 +85,38 @@
 <br />
 <br />
 
+## 🗂 브랜치 & PR 업로드 방식
+
+### Repository Structure
+
+각자 **본인 GitHub 계정명 폴더** 아래에 풀이 파일을 추가합니다.
+해당 주차 및 요일에 맞게 파일 추가 -> 커밋 후 master 브랜치에 머지될 수 있도록 PR을 업로드합니다.
+
+### 파일 네이밍 규칙
+- 기본: `{ProblemTitle}.{ext}`
+  - 예: `TwoSum.js`, `ValidParentheses.ts`
+- 같은 문제명이 중복되거나 구분이 필요하면 아래처럼 작성합니다.
+  - `TwoSum_1.js`
+  - `TwoSum_2.ts`
+
+### 브랜치 컨벤션
+브랜치는 **각자 본인 GitHub 계정명이나 영문명**으로 생성해서 사용합니다.
+> 브랜치는 개인별로 계속 재사용합니다.
+> 예: doitchuu, seulgi
+
+### 🏷 PR 타이틀 컨벤션
+
+- 화요일 PR: `[WEEK01-1] {이름}`
+- 금요일 PR: `[WEEK01-2] {이름}`
+
+예)
+- `[WEEK01-1] 추슬기`
+- `[WEEK01-2] 추슬기`
+
+<br />
+<br />
+
+
 ## 스터디원 
 
 | Name | GitHub | Language |
