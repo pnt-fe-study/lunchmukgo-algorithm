@@ -13,7 +13,6 @@ var longestPalindrome = function (s) {
   let isOdd = true;
 
   for (const [_, v] of map) {
-    console.log(_, v);
     if (v % 2 === 0) sum += v;
     else {
       if (isOdd) {
