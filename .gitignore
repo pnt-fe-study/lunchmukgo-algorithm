@@ -1,6 +1,7 @@
 CLAUDE.md
 .claude/
 .omc
+.project
 
 # Track only Java sources under LeeBJ
 /LeeBJ/**
