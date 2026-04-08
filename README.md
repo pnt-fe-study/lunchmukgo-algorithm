@@ -124,6 +124,7 @@
 | 이지현 | https://github.com/sik9252 | TS/JS |
 | 최준호 | https://github.com/raejun92 | TS/JS |
 | 추슬기 | https://github.com/doitchuu | TS/JS |
+| 이배진 | https://github.com/LeeBaeJin | Java |
 
 > 멤버 추가 시: PR로 이 표에 본인 정보 추가해주세요.
 
